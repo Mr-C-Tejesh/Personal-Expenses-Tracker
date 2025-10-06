@@ -10,7 +10,7 @@ Features:-
 
 How to Use:-
 1. Clone the repository:
-    git clone https://github.com/yourusername/PersonalExpenseTracker.git
+    git clone https://github.com/Mr-C-Tejesh/PersonalExpenseTracker.git
 2. Compile the program using GCC:
     gcc -o ExpenseTracker ExpenseTracker.c
 3. Run the program:
